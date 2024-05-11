@@ -1,0 +1,4 @@
+100 || 1 || Учиться || Lernen || lerne, lernte, gelernt
+101 || 1 || Делать || Machen || mache , machte, gemacht
+102 || 1 || Покупать || Kaufen || kaufe , kaufte, gekauft
+103 || 1 || Понимать || Verstehen || verstehe, verstand, verstanden
