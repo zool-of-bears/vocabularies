@@ -2,3 +2,61 @@
 101 || 1 || Делать || Machen || mache , machte, gemacht
 102 || 1 || Покупать || Kaufen || kaufe , kaufte, gekauft
 103 || 1 || Понимать || Verstehen || verstehe, verstand, verstanden
+104 || 1 || Я || Ich ||
+105 || 1 || Мы || Wir ||
+106 || 1 || Ты || Du ||
+107 || 1 || Вы || Ihr | Sie || Sie - вежливая форма
+108 || 1 || Он || Er ||
+109 || 1 || Она || Sie ||
+110 || 1 || Оно || Es ||
+111 || 1 || Они || Sie ||
+112 || 1 || Говорить || Sprechen || spreche, sprach, gesprochen
+113 || 1 || Что это? || Was ist das? | Was ist es? ||
+114 || 1 || Извините || Entschuldigung ||
+115 || 1 || Я не говорю по-немецки || Ich spreche kein Deutsch ||
+116 || 1 || Извините, я Вас не понимаю || Entschuldigung, ich verstehe Sie nicht ||
+117 || 1 || Холодно || Es ist kalt | Kalt ||
+118 || 1 || Слово || das Wort || Wörter
+119 || 1 || Сегодня || Heute ||
+120 || 1 || Вы понимаете? || Versteht ihr? | Verstehen Sie? ||
+121 || 1 || Сегодня я учу немецкий | Я учу немецкий сегодня || Heute lerne ich Deutsch | Ich lerne Deutsch heute ||
+122 || 1 || В Германии лучше, чем в Польше || In Deutschland ist es besser als in Polen ||
+123 || 1 || Россия || Russland ||
+124 || 1 || Номер || die Nummer || Nummern
+125 || 1 || Лучше || besser ||
+200 || 2 || День недели || der Wochentag || Wochentage
+201 || 2 || Мы из России || Wir sind aus Russland | Aus Russland sind wir ||
+202 || 2 || Остальное | Остаток || der Rest || Rester
+203 || 2 || Нуждаться || Brauchen || brauche, brauchte, gebraucht
+204 || 2 || В понедельник || Am Montag ||
+205 || 2 || Во второник || Am Dienstag ||
+206 || 2 || В среду || Am Mittwoch ||
+207 || 2 || В четверг || Am Donnerstag ||
+208 || 2 || В пятницу || Am Freitag ||
+209 || 2 || В субботу || Am Samstag ||
+210 || 2 || В воскресенье || Am Sonntag ||
+211 || 2 || Понедельник || der Montag || Montage
+212 || 2 || Второник || der Dienstag || Dienstage
+213 || 2 || Среда || der Mittwoch || Mittwoche
+214 || 2 || Четверг || der Donnerstag || Donnerstage
+215 || 2 || Пятница || der Freitag || Freitage
+216 || 2 || Суббота || der Samstag || Samstage
+217 || 2 || Воскресенье || der Sonntag || Sonntage
+218 || 2 || Неделя || die Woche || Wochen
+219 || 2 || Что ты делаешь на этой неделе в пятницу? || Was machst du diese Woche am Freitag? ||
+220 || 2 || Ехать || Fahren || fahre, fuhr, gefahren
+221 || 2 || Завтра || morgen ||
+222 || 2 || Я еду завтра в Берлин || Ich fahre morgen nach Berlin ||
+223 || 2 || Луна || der Mond || Monde
+224 || 2 || Служба || der Dienst || Dienste
+225 || 2 || Кто на службе сегодня? || Wer hat Dienst heute? ||
+226 || 2 || Мужчина || der Mann || Männer
+227 || 2 || Женщина || die Frau || Frauen
+228 || 2 || Ребёнок || das Kind || Kinder
+229 || 2 || Вопрос || die Frage || Fragen
+230 || 2 || Середина || die Mitte || Mitten
+231 || 2 || В середине недели || in der Mitte der Woche ||
+232 || 2 || Гром || der Donner || Donner
+233 || 2 || Громкий || laut ||
+234 || 2 || Молния || der Blitz || Blitze
+235 || 2 || День || der Tage || Tage
