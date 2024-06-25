@@ -1,0 +1,149 @@
+100 || 1 || Обдумывать || To Deliberate over | To think over | To ponder | Deliberate over | Think over | Ponder ||
+101 || 1 || Предвосхищать || To anticipate | Anticipate ||
+102 || 1 || Прорабатывать || To work out | Work out ||
+103 || 1 || Перенимать || To take over | Take over || Возможно, иногда это значит "взять на себя ответственность"
+104 || 1 || Поддерживать связь || To liaise | Liaise ||
+105 || 1 || Детализировать || To drill down | Drill down ||
+106 || 1 || Вести протокол || To take minutes | Take minutes ||
+107 || 1 || Помещение || A premises | Premises ||
+108 || 1 || Оценивать || To assess | Assess ||
+109 || 1 || Мышление || A mindset | Mindset ||
+110 || 1 || Сваливать ответственность || To pass the buck | Pass the buck ||
+111 || 1 || Магнат || A tycoon | Tycoon ||
+112 || 1 || Адаптировать || To tailor | Tailor ||
+113 || 1 || Воспитание || Upbringing ||
+114 || 1 || Заслуга || A merit | Merit ||
+115 || 1 || Признать заслуги || To recognize merit | Recognize merit ||
+116 || 1 || Закупки || A procurement | Procurement ||
+117 || 1 || Отклоняться || To digress | Digress||
+118 || 1 || Отвлечься || To get sidetracked | Get sidetracked ||
+119 || 1 || Способствовать || To facilitate | Facilitate | To foster | Foster || Foster или Facilitate
+120 || 1 || Обязательство || A commitment | Commitment ||
+200 || 2 || Взаимопонимание || A rapport | Rapport ||
+201 || 2 || Налаживание отношений || Building rapport | Building a rapport | Building the rapport ||
+202 || 2 || Передавать || To impart | Impart ||
+203 || 2 || Сопереживание || An empathy | Empathy ||
+204 || 2 || Владение || A possession | Possession ||
+205 || 2 || Верховный || Paramount ||
+206 || 2 || Перевешивать || To outweigh | Outweigh ||
+207 || 2 || Колея || A rut | Rut ||
+208 || 2 || Застрять || To get stuck in a rut | Get stuck in a rut || Например, "застрять на одной работе"
+209 || 2 || Окупаться || To pay off | Pay off || Например, "this work paid off"
+210 || 2 || Твёрдый || Firm ||
+211 || 2 || Оптовый торговец || A wholesaler | Wholesaler ||
+212 || 2 || Уступка || A concession | Concession ||
+213 || 2 || Преувеличивать || To exaggerate | Exaggerate ||
+214 || 2 || Громадный || Tremendous ||
+215 || 2 || Запрос || An inquiry | Inquiry ||
+216 || 2 || Ездить на работу || To commute to work | Commute to work | To commute | Commute ||
+217 || 2 || Сократить кого-либо || To make somebody redundant | Make somebody redundant | To make redundant | Make redundant ||
+218 || 2 || Искоренить || To eradicate | Eradicate ||
+219 || 2 || Труд || A labour | Labour ||
+220 || 2 || Кабинка || A cubicle | Cubicle||
+221 || 2 || Суеверный || Superstitious ||
+222 || 2 || Помилование || A pardon | Pardon ||
+223 || 2 || Камера смертников || Death row ||
+300 || 3 || Найти общий язык || To find common ground | Find common ground | Find a common ground | To find a common ground ||
+301 || 3 || Конфиденциальность || A privacy | Privacy ||
+302 || 3 || Использовать вариант || To pursue an option | Pursue an option ||
+303 || 3 || Преимущества и недостатки || Advantages and disadvantages | Pros and cons ||
+304 || 3 || Хмуриться || To frown | frown ||
+305 || 3 || Связка || A bunch | Bunch ||
+306 || 3 || Зрелый || Mature ||
+307 || 3 || Обрисовать || To outline | Outline ||
+308 || 3 || Парниковый газ || Greenhouse gas ||
+309 || 3 || Подвергать риску || To put at risk | Put at risk ||
+310 || 3 || В итоге || On balance ||
+311 || 3 || Пробуждать || To arouse | Arouse ||
+312 || 3 || Восхищаться || To admire | Admire ||
+313 || 3 || Принять это как должное || To take it for granted | Take it for granted ||
+314 || 3 || Изображать || To depict | Depict ||
+315 || 3 || Откладывать || To put off | Put off ||
+316 || 3 || Всего лишь || Mere || А ещё это "простой", "банальный", "только", "обыкновенный"
+317 || 3 || Поражать || To stagger | Stagger || А ещё это "шататься" или "шатание"
+318 || 3 || Развал || A breakdown | Breakdown ||
+319 || 3 || Понести | Взять на себя || To incur | Incur ||
+320 || 3 || Стойкий || Persistent ||
+321 || 3 || Уступка || A concession | Concession ||
+322 || 3 || Выходить | Слезать || To get off | Get off ||
+323 || 3 || Встать не с той ноги || To get off on the wrong foot | Get off on the wrong foot ||
+324 || 3 || Быть оцененным по стоимости || To be costed | Be costed ||
+325 || 3 || Пробная версия продукта || Product trial ||
+326 || 3 || Уйти в отставку || To resign | Resign ||
+327 || 3 || Бредить || To rave | rave ||
+328 || 3 || Хрустящий || Crunchy ||
+329 || 3 || Имущество || An asset | Asset ||
+400 || 4 || Тревожный || Anxious ||
+401 || 4 || Исправить || To rectify | rectify ||
+402 || 4 || Выделять || To allocate | Allocate ||
+403 || 4 || Преданный || Devoted ||
+404 || 4 || Смирение || Humility ||
+405 || 4 || Смешаться || To mingle | Mingle ||
+406 || 4 || Упорствовать || To persevere | Persevere ||
+407 || 4 || Приземленный || Down-to-earth ||
+408 || 4 || Насыщенный || Saturated ||
+409 || 4 || Парить | Зависнуть | Болтаться || To hover | Hover ||
+410 || 4 || Говорить на узкие темы | Говорить о работе || To talk shop | Talk shop ||
+411 || 4 || Настигнуть | Догнать || To catch up | Catch up ||
+412 || 4 || Стонать || To moan | Moan ||
+413 || 4 || Расслабиться || To let your hair down | Let your hair down | To let my hair down | Let my hair down ||
+414 || 4 || Втянуть в || To draw into | Draw into ||
+415 || 4 || Ладить || To get on | Get on | To get along | Get along ||
+416 || 4 || Перейти || To go over | Go over || Возможно, иногда это значит "преодолеть"
+417 || 4 || Кивок || A nod | Nod ||
+418 || 4 || Твёрдое рукопожатие || A firm handshake | Firm handshake ||
+419 || 4 || Вялое рукопожатие || A limp handshake | Limp handshake ||
+420 || 4 || Изменить || To alter | Alter ||
+421 || 4 || Придумывать оправдания || To make excuses | Make excuses ||
+422 || 4 || Присутствовать || To attend | Attend ||
+423 || 4 || Посвящать || To devote | Devote ||
+424 || 4 || Расширение полномочий || An empowerment | Empowerment ||
+425 || 4 || Стимул || An incentive | Incentive ||
+426 || 4 || Ввести в курс дела || To show the ropes | Show the ropes ||
+427 || 4 || Проглядеть || To overlook | Overlook ||
+428 || 4 || Существенный || Essential ||
+429 || 4 || Раздавать || To give away | Give away ||
+430 || 4 || Самооценка || A self esteem | Self esteem ||
+431 || 4 || Покупка || A purchase | Purchase ||
+432 || 4 || Собирать || To assemble | Assemble ||
+433 || 4 || Председатель || A chairperson | Chairperson ||
+434 || 4 || Благотворительность || Charity ||
+435 || 4 || Сталкивать || To come across | Come across ||
+436 || 4 || Определенный || Determined ||
+437 || 4 || Яхта || A yacht | Yacht ||
+438 || 4 || Роскошный || Luxurious || Нужно обратить внимание на произношение - [lʌgˈzjʊərɪəs]
+439 || 4 || Способствующий || Conductive ||
+500 || 5 || Уставиться || To stare | Stare ||
+501 || 5 || Свирепо смотреть | Зло смотреть || To glare | Glare ||
+502 || 5 || Любоваться || To gaze | Gaze ||
+503 || 5 || Взглянуть || To glance | Glance ||
+504 || 5 || Подглядывать || To peep | Peep ||
+505 || 5 || Всматриваться || To peer | Peer ||
+506 || 5 || Заметить || To glimpse | Glimpse ||
+507 || 5 || Что-то удивительное | Откровение || An eye-opener | Eye-opener ||
+508 || 5 || Вот и ты || There you go | Here you go ||
+509 || 5 || Случайно | Вдруг || By chance ||
+510 || 5 || Благородный || Noble ||
+511 || 5 || Провоцировать || To provoke | Provoke ||
+512 || 5 || Испытывать нехватку времени || To be short of time | Be short of time || Be short of smth - испытывать нехватку чего-либо
+513 || 5 || Созерцать || To contemplate | Contemplate ||
+514 || 5 || Настойчивость || A perseverance | Perseverance ||
+515 || 5 || Убеждать || To persuade | Persuade ||
+516 || 5 || Свидетельствовать || To witness | Witness ||
+517 || 5 || Свидетель || A witness | Witness ||
+518 || 5 || Кольцевая дорога || A ring road | Ring road ||
+519 || 5 || Вкалывать | Батрачить || To slave away | Slave away ||
+520 || 5 || Кашель || A cough | Cough ||
+521 || 5 || Работать сверхурочно || To do overtime | Do overtime ||
+522 || 5 || Угощайтесь || To help yourself to | Help yourself to | Help yourself | To help yourself || Например, help yourself to smth - именно "to" здесь
+523 || 5 || Будьте как дома || To make yourself at home | Make yourself at home ||
+524 || 5 || Союзник || An ally | Ally ||
+525 || 5 || Враг || A foe | foe ||
+526 || 5 || Нарцисс || A daffodil | Daffodil ||
+527 || 5 || Значимый || Meaningful ||
+528 || 5 || Уязвимый || Vulnerable ||
+529 || 5 || Вызов || A calling | Calling ||
+530 || 5 || Стремиться к || To strive for | Strive for ||
+531 || 5 || Объятие || An embrace | Embrace ||
+532 || 5 || Подлинный || Genuine ||
+533 || 5 || Слава || A glory | Glory ||
